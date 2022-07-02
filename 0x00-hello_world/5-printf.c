@@ -1,15 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - Prints all single digit number of base 10 starting from 0.
- *
- * Return: Always 0.
+ * main - Entry point
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int num;
-
-	for num (num = 0; num < 10; num++)
-		printf("%d", num);
-			printf("\n");
-			return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
